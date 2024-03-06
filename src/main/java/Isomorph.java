@@ -41,6 +41,7 @@ public class Isomorph {
                     charMap.put(currentLetterW1,currentLetterW2);
                 }
 
+
                 // daca nu indeplinesc conditiile , atunci returnez true
                 return true;
             }

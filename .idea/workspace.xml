@@ -5,17 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8a42c81-268b-46d4-91eb-91debcd8347e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Flip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlipInversMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Isomorph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WordDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ContentChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IslandDiameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortedLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OverlapingIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PasswordSanitizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UniqueEmailAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Fanta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/InsufficientMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/OutOfStockException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/ServedDrinkSummary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Isomorph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Isomorph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,30 +69,37 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FlipInversMatrix">
-    <configuration name="Flip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Flip" />
+  <component name="RunManager" selected="Application.UniqueEmailAddress">
+    <configuration name="ArrayIntersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayIntersection" />
       <module name="SDA5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlipInversMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlipInversMatrix" />
+    <configuration name="ContentChildren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContentChildren" />
       <module name="SDA5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Isomorph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Isomorph" />
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortedArray" />
       <module name="SDA5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordDistance" />
+    <configuration name="MergeSortedLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortedLinkedLists" />
+      <module name="SDA5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueEmailAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UniqueEmailAddress" />
       <module name="SDA5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,10 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FlipInversMatrix" />
-        <item itemvalue="Application.Flip" />
-        <item itemvalue="Application.WordDistance" />
-        <item itemvalue="Application.Isomorph" />
+        <item itemvalue="Application.UniqueEmailAddress" />
+        <item itemvalue="Application.MergeSortedLinkedLists" />
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.ArrayIntersection" />
+        <item itemvalue="Application.ContentChildren" />
       </list>
     </recent_temporary>
   </component>
@@ -108,8 +124,23 @@
       <option name="presentableId" value="Default" />
       <updated>1706005021393</updated>
       <workItem from="1706005022797" duration="18731000" />
-      <workItem from="1706087526408" duration="8577000" />
+      <workItem from="1706087526408" duration="11855000" />
+      <workItem from="1706536498683" duration="13191000" />
+      <workItem from="1708504742905" duration="598000" />
+      <workItem from="1708590047343" duration="409000" />
+      <workItem from="1709551182453" duration="1197000" />
+      <workItem from="1709656874329" duration="7413000" />
+      <workItem from="1709709718445" duration="599000" />
     </task>
+    <task id="LOCAL-00001" summary="Algoritm">
+      <option name="closed" value="true" />
+      <created>1706096205795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706096205795</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Algoritm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algoritm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -140,6 +173,46 @@
           <url>file://$PROJECT_DIR$/src/main/java/FlipInversMatrix.java</url>
           <line>29</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/OverlapingIntervals.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/OverlapingIntervals.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/OverlapingIntervals.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ContentChildren.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ArrayIntersection.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ArrayIntersection.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeSortedArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeSortedLinkedLists.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
